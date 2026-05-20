@@ -103,7 +103,7 @@
         {
           "type": "ExternalMap",
           "externalSpdxId": "urn:uuid:a9f18ff3-17fa-419d-8966-abe4b992312b",
-          "locationHint": "https://github.com/spdx/spdx-examples/software/example7/example7-golang.spdx.jsonld",
+          "locationHint": "https://github.com/spdx/spdx-examples/software/example7/example7-golang.spdx3.json",
           "verifiedUsing": [
             {
               "type": "Hash",
@@ -115,7 +115,7 @@
         {
           "type": "ExternalMap",
           "externalSpdxId": "urn:uuid:3b2939bf-fcce-4617-a06f-115168870b95",
-          "locationHint": "https://github.com/spdx/spdx-examples/software/example7/example7-golang.spdx.jsonld",
+          "locationHint": "https://github.com/spdx/spdx-examples/software/example7/example7-golang.spdx3.json",
           "verifiedUsing": [
             {
               "type": "Hash",
@@ -127,7 +127,7 @@
         {
           "type": "ExternalMap",
           "externalSpdxId": "urn:uuid:e1877974-0aaa-48e6-931f-db4898c543f8",
-          "locationHint": "https://github.com/spdx/spdx-examples/software/example7/example7-go-module.spdx.jsonld",
+          "locationHint": "https://github.com/spdx/spdx-examples/software/example7/example7-go-module.spdx3.json",
           "verifiedUsing": [
             {
               "type": "Hash",
@@ -139,7 +139,7 @@
         {
            "type": "ExternalMap",
            "externalSpdxId": "urn:uuid:4918b993-36f8-4e75-bf94-2f017575eae5",
-           "locationHint": "https://github.com/spdx/spdx-examples/software/example7/example7-third-party-modules.spdx.jsonld",
+           "locationHint": "https://github.com/spdx/spdx-examples/software/example7/example7-third-party-modules.spdx3.json",
            "verifiedUsing": [
              {
               "type": "Hash",
@@ -151,7 +151,7 @@
         {
           "type": "ExternalMap",
           "externalSpdxId": "urn:uuid:84e4231d-fc1d-4b4e-9609-05781f81fa73",
-          "locationHint": "https://github.com/spdx/spdx-examples/software/example7/example7-third-party-modules.spdx.jsonld",
+          "locationHint": "https://github.com/spdx/spdx-examples/software/example7/example7-third-party-modules.spdx3.json",
           "verifiedUsing": [
             {
               "type": "Hash",
